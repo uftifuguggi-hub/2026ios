@@ -1,10 +1,23 @@
 ios
-7788papao
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E4%B8%8D%E6%88%90%E5%8A%9F%E7%9A%84%E8%BF%9E%E6%88%91
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#%E5%8F%AF%E4%BB%A5%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E6%9B%B4%E6%96%B0
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?sni=frankfurtrm2.686911.xyz#%E5%8F%AF%E4%BB%A5%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E6%9B%B4%E6%96%B0
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?sni=cntwbta.686911.xyz#%E5%8F%AF%E5%B0%9D%E8%AF%95%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E7%82%B9%E6%9B%B4%E6%96%B0
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro019.instconn.com:44790?sni=vntb.686911.xyz#%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%B0%9D%E8%AF%95%E8%BF%9E%E6%8E%A5%E6%88%91%E6%9B%B4%E6%96%B0
+228，小猪10个，14上文字131加
+trojan://7a647ada-8f0f-4c45-9e33-1ba46b8520fb@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#2026%F0%9F%8E%89%E9%A9%AC%E5%88%B0%E6%88%90%E5%8A%9F%F0%9F%8F%86
+trojan://6fdb6c45-7b1d-4ca2-8d09-7304dbfed191@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://74eae49a-6c8f-4a39-bd2c-e3abda283721@xiaozhu1.kkieo555.cn:41273?allowInsecure=1&peer=douyin.com&tfo=1#%E7%82%B9%E8%BD%AC%E7%9B%98%E5%9B%BE%E6%A0%87%E6%88%96%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E6%9B%B4%E6%96%B0
+trojan://b85c4ee8-2e24-4de8-acb6-203a6d727b43@xiaozhu1.kkieo555.cn:41273?allowInsecure=1&peer=douyin.com&tfo=1#%E5%B0%91%E9%83%A8%E5%88%86%E6%9B%B4%E6%96%B0%E6%9B%B4%E6%96%B0%E5%A4%B1%E8%B4%A5%E7%9A%84
+trojan://83b0439e-3c4a-4084-8d86-1bd4cbb69a21@xiaozhu1.kkieo555.cn:41273?allowInsecure=1&peer=douyin.com&tfo=1#%E5%8F%AF%E9%80%89%E4%B8%AA%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%9B%B4%E6%96%B0
+trojan://6b51ce03-f852-42db-9310-ae4689ae1112@xiaozhu1.kkieo555.cn:41274?allowInsecure=1&peer=douyin.com&tfo=1#%E8%BF%91%E6%9C%9F%E8%A1%8C%E4%B8%9A%E6%96%AD%E5%B4%96%E5%BC%8F%E5%A1%8C%E6%96%B9
+trojan://92bce376-a6e0-439a-9879-377c0a0d7ff1@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&peer=douyin.com&tfo=1#%E6%88%91%E5%A4%84%E5%B7%B2%E5%90%AF%E7%94%A8%E5%A4%87%E7%94%A8%E7%9B%91%E6%B5%8B%E5%8D%87%E7%BA%A7
+trojan://fc781ec6-4f75-4ce7-8573-a0ee32510549@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%AF%84%E8%AE%BA/%E8%BD%AC%E5%8F%91%E4%B8%8D%E5%BD%93%E5%86%85%E5%AE%B9
+trojan://672a53e0-1b99-47b0-bfa7-5764e903eaeb@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1%EF%BD%9E
+trojan://62a53712-e353-4822-a4ef-f8fd14faa29a@xiaozhu1.kkieo555.cn:41273?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+trojan://06ebb972-431f-4b52-9eeb-10c01ddd68f4@faq1.lieerr222.cn:43533?allowInsecure=1&peer=douyin.com&tfo=1#%E7%BE%8E%E5%9B%BD01
+trojan://411eb6dd-9196-4187-89e4-c02c6cd607a4@faq1.lieerr222.cn:43534?allowInsecure=1&peer=douyin.com&tfo=1#%E7%BE%8E%E5%9B%BD02
+trojan://742ac6a5-9a7a-44b9-8429-a80c69fc6bb6@faq1.lieerr222.cn:43535?allowInsecure=1&peer=douyin.com&tfo=1#%E7%BE%8E%E5%9B%BD03
+trojan://edb0c87a-87b4-4a79-a653-f47333228c1d@faq1.lieerr222.cn:43536?allowInsecure=1&peer=douyin.com&tfo=1#%E7%BE%8E%E5%9B%BD04
+vmess://YXV0bzpiZGI4Njk3Yy0zYzNjLTQ5MTYtYTNlZC0wMDkzMWUzNTE2MjdAZmFxMS5saWVlcnIyMjIuY246NDM1MjU?remarks=%E9%A6%99%E6%B8%AF01&tfo=1&alterId=0
+vmess://YXV0bzpmZDFiNTA5Ny1jN2RkLTQ1MzYtOWJlNy00ODhkYzlkZDQ2OTRAZmFxMS5saWVlcnIyMjIuY246NDM1Mjc?remarks=%E5%8F%B0%E6%B9%BE01&tfo=1&alterId=0
+vmess://YXV0bzphNzc0Y2Q0NC1mODE4LTQxZDAtYjg2Ny0zNTI4MDAzMzZhZDJAZmFxMS5saWVlcnIyMjIuY246NDM1Mjc?remarks=%E5%8F%B0%E6%B9%BE01&tfo=1&alterId=0
+
 编号20
 trojan://be5ba44e-e2bc-4eb6-87db-39b0875b0bca@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
 trojan://da4c3832-3cb4-4b01-8f32-e21c62a30973@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
@@ -56,7 +69,21 @@ trojan://39f42ee8-9f5d-4383-a488-6f499aba81af@xiaozhu1.kkieo555.cn:41274?allowIn
 trojan://3eeddc80-42f2-4191-88ea-d3355f1b0afc@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://abb1ac52-4b00-458f-a408-80b272459773@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
 trojan://70b65418-ff7b-4fe1-ba18-9725524cb285@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-
+225 14shang fanqie
+vmess://YXV0bzozZmQxYTI4Ny05MTRmLTRlODQtYTNlZi05NmNiYzc4YmY3ZmJAZmFxMS5saWVlcnIyMjIuY246NDM1MjU?remarks=%E9%A6%99%E6%B8%AF01&tfo=1&alterId=0
+vmess://YXV0bzo2NjMwZDJiOS1hMjE5LTQ4ODUtYTY5Ny00YWY1ZmY2M2EwMThAZmFxMS5saWVlcnIyMjIuY246NDM1Mjc?remarks=%E5%8F%B0%E6%B9%BE01&tfo=1&alterId=0
+vmess://YXV0bzo2OTlhYTgyMS02Y2U4LTQwMTgtOGI2Ny02YjcxMDg2MGUwNWRAZmFxMS5saWVlcnIyMjIuY246NDM1Mjg?remarks=%E8%B6%8A%E5%8D%97&tfo=1&alterId=0
+vmess://YXV0bzozYTQ2YWMwYi1iNjRlLTRlYjEtYmQ5Ni03MWMyZDFmZjIxOTFAZmFxMS5saWVlcnIyMjIuY246NDM1MjE?remarks=Hk&tfo=1&alterId=0
+vmess://YXV0bzoxYjAzNzk5Yy02MjI4LTQxMjItOTgxOS1lYjQ5OGJkYjFiMDhAZmFxMS5saWVlcnIyMjIuY246NDM1MjI?remarks=hk&tfo=1&alterId=0
+vmess://YXV0bzoyYWFkMmE3NC01YjQzLTRiYmItYWMwNy1mMjZhYjljZmUzNWNAZmFxMS5saWVlcnIyMjIuY246NDM1MjU?remarks=%E9%A6%99%E6%B8%AF01&tfo=1&alterId=0
+vmess://YXV0bzplZjAwNTc2NS1kZDQzLTQzZjYtODU3NS04YWZmYmI5ZDMyYThAZmFxMS5saWVlcnIyMjIuY246NDM1Mjc?remarks=%E5%8F%B0%E6%B9%BE01&tfo=1&alterId=0
+vmess://YXV0bzpjNzA4MTRiZC01NmEzLTQ1NjktOTkxOS0zMDQ1M2YxNmQ5OGFAZmFxMS5saWVlcnIyMjIuY246NDM1Mjg?remarks=%E8%B6%8A%E5%8D%97&tfo=1&alterId=0
+vmess://YXV0bzpkMGM5OTFmMy0yOWY2LTRkNTAtODgzNS1hZTNkMWU1MjM4NDJAZmFxMS5saWVlcnIyMjIuY246NDM1MjU?remarks=%E9%A6%99%E6%B8%AF01&tfo=1&alterId=0
+vmess://YXV0bzo4NWY5ZTM5ZC0wOWVkLTQ4MzMtYWYxMi0xY2UwYWUxMzgzZTBAZmFxMS5saWVlcnIyMjIuY246NDM1MjE?remarks=hk1&tfo=1&alterId=0
+vmess://YXV0bzoxNGM4YzVhNC0wYjZkLTQxYjMtOGZjOS0yMDE5NTc5NDFiNjVAZmFxMS5saWVlcnIyMjIuY246NDM1MjU?remarks=%E9%A6%99%E6%B8%AF01&tfo=1&alterId=0
+vmess://YXV0bzowYTdmYTE1Zi1jZGI2LTRlOGUtYWIwNS03MzAxZDdkNDE5ZmNAZmFxMS5saWVlcnIyMjIuY246NDM1Mjc?remarks=%E5%8F%B0%E6%B9%BE01&tfo=1&alterId=0
+vmess://YXV0bzphOWRiYjZlNi1jNzQyLTRjNDMtYjYwZC1iMjc5MGRjMzY4ZWFAZmFxMS5saWVlcnIyMjIuY246NDM1Mjg?remarks=%E8%B6%8A%E5%8D%97&tfo=1&alterId=0
+vmess://YXV0bzpkMjU1OWU2MS00NGMxLTQ5ZGEtYTA3MC03MWM3ZTMwOGE1ODNAZmFxMS5saWVlcnIyMjIuY246NDM1Mjg?remarks=%E8%B6%8A%E5%8D%97&tfo=1&alterId=0
 
 
 128注册，14上草莓30个，ios2
@@ -139,3 +166,9 @@ trojan://6f75130c-dc5d-4f79-bd40-5e5a65bc8f74@xiaozhu1.kkieo555.cn:41274?allowIn
 trojan://1a44c469-a404-48aa-a03e-136f403b14cb@xiaozhu1.kkieo555.cn:41275?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://b25e6386-102f-4e1a-9c6c-2a9a62904e32@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
 trojan://ec2ea765-bd31-43b1-8b45-a9f13c0a934c@xiaozhu1.kkieo555.cn:49213?allowInsecure=1&peer=douyin.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+7788papao
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E4%B8%8D%E6%88%90%E5%8A%9F%E7%9A%84%E8%BF%9E%E6%88%91
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#%E5%8F%AF%E4%BB%A5%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E6%9B%B4%E6%96%B0
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?sni=frankfurtrm2.686911.xyz#%E5%8F%AF%E4%BB%A5%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E6%9B%B4%E6%96%B0
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro011.instconn.com:40130?sni=cntwbta.686911.xyz#%E5%8F%AF%E5%B0%9D%E8%AF%95%E8%BF%9E%E6%8E%A5%E7%9D%80%E6%88%91%E7%82%B9%E6%9B%B4%E6%96%B0
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro019.instconn.com:44790?sni=vntb.686911.xyz#%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%B0%9D%E8%AF%95%E8%BF%9E%E6%8E%A5%E6%88%91%E6%9B%B4%E6%96%B0
